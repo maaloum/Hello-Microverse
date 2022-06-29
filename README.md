@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> Hello Microverse project.
 
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+-   Webhint
+-   Styleint
+-   Lighthouse
 
 ## Live Demo (if available)
 
